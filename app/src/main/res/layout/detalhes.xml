@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detalhes"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="Detalhes"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:textColor="@color/colorPrimary"
+        android:text="                  NOSSO COMPRIMISSO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="                    A educação deve ser acessivel a todos, por isso nos compremetemosem mudar vidas por meio da educação."
+        android:layout_margin="4dp"/>
+    <TextView
+        android:textColor="@color/colorPrimary"
+        android:text="                     NOSSAS FERRAMENTAS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="                  Criamos as ferramentas necessárias para facilitar o aprendizado dos nossos estudantes."
+        android:layout_margin="4dp"/>
+    <TextView
+        android:textColor="@color/colorPrimary"
+        android:text="                      O SEU FUTURO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="                  Toda a metodologia na Buka foi criada pensando nos nossos estudantes, de modo a prepara-los para o mercado de trabalho."
+        android:layout_margin="4dp"/>
+    <TextView
+        android:textColor="@color/colorPrimary"
+        android:text=" UMA COMUNIDADE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Temos uma comunidade pronta a apoiar cada estudante, construindo assim um ecossistema
+        de aprendizado e indo mais além."
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="4"
+        android:layout_margin="20dp">
+        >
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

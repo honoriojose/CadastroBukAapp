@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CadastroBukAapp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detalhes">Detalhes</string>
+    <string name="title_activity_funcionario_lista">Lista de Funcionários</string>
+    <string name="title_activity_mostrar_cadastramentos">Mostrar Cadastramentos</string>
+</resources>

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "337169847671",
+    "firebase_url": "https://honormessaging.firebaseio.com",
+    "project_id": "honormessaging",
+    "storage_bucket": "honormessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337169847671:android:1ab14136b830ceae",
+        "android_client_info": {
+          "package_name": "com.honoriojose.cadastrobukaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337169847671-7kdr0q5evqrhpuuoqc0sd4j336glmi44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honoriojose.cadastrobukaapp",
+            "certificate_hash": "e4647671efa7ccbe5c37a361d058aaeedaaccea2"
+          }
+        },
+        {
+          "client_id": "337169847671-sf7isaug63fvc2nioq2i6sobprgf165f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honoriojose.cadastrobukaapp",
+            "certificate_hash": "796510edfb879cfb42be98d693f7947767ed7fab"
+          }
+        },
+        {
+          "client_id": "337169847671-odi3s87fb02qqge24l9vn76627k31pts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisZA8vyWW-sdiZu6MnsXw9HrwpUQCHGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337169847671-odi3s87fb02qqge24l9vn76627k31pts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337169847671:android:5c516dbd34c43631",
+        "android_client_info": {
+          "package_name": "com.honoriojose.honormessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337169847671-aii9r1ojn2s58u1d5ajkgtau2mfuj4bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honoriojose.honormessaging",
+            "certificate_hash": "e4647671efa7ccbe5c37a361d058aaeedaaccea2"
+          }
+        },
+        {
+          "client_id": "337169847671-odi3s87fb02qqge24l9vn76627k31pts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisZA8vyWW-sdiZu6MnsXw9HrwpUQCHGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337169847671-odi3s87fb02qqge24l9vn76627k31pts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
